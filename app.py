@@ -7,7 +7,7 @@ from tensorflow.keras.models import load_model
 st.markdown("""
     <style>
     .stApp {
-        background-image: url("https://www.researchtrials.org/wp-content/uploads/2021/03/iStock-1128931450-scaled.jpg");
+        background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)) ,url("https://www.researchtrials.org/wp-content/uploads/2021/03/iStock-1128931450-scaled.jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
